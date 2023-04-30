@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "icon": "Category",
+    "title": "Feeds",
+    "url": "/"
+  },
+  {
+    "id": 2,
+    "icon": "Chat",
+    "title": "Chats",
+    "url": "/chat"
+  },
+  {
+    "id": 3,
+    "icon": "2User",
+    "title": "Community",
+    "url": "/community"
+  },
+  {
+    "id": 4,
+    "icon": "Notification",
+    "title": "Notification",
+    "url": "/notification"
+  },
+  {
+    "id": 5,
+    "icon": "Setting",
+    "title": "Settings",
+    "url": "/setting"
+  }
+]
